@@ -10,6 +10,7 @@
 2|[solution](./01_sliding_window/src/main/java/solutions/MaxSumSubArrayOfSizeK.java)|[test](./01_sliding_window/src/main/test/MaxSumSubArrayOfSizeKTest.java)|easy|maximum sum subarray of size k
 3|[solution](./01_sliding_window/src/main/java/solutions/MinSubArraySum.java)|[test](./01_sliding_window/src/main/test/MinSubArraySumTest.java)|easy|smallest subarray with a given sum
 4|[solution](./01_sliding_window/src/main/java/solutions/LongestSubstringKDistinct.java)|[test](./01_sliding_window/src/main/test/LongestSubstringKDistinctTest.java)|medium|longest substring with k distinct characters
+5|[solution](./01_sliding_window/src/main/java/solutions/MaxFruitCountOf2Types.java)|[test](./01_sliding_window/src/main/test/MaxFruitCountOf2TypesTest.java)|medium|fruits into baskets
 
 <hr/>
 <!--

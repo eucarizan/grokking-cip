@@ -8,7 +8,7 @@ import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SuppressWarnings("unused")
-class SomeParamTest {
+class MaxSumSubArrayOfSizeKTest {
     @ParameterizedTest(name = "{0} -- findMaxSumSubArray({1}, [{2}]) == {3}")
     @DisplayName("find max sum sub array test")
     @CsvSource(value = {
